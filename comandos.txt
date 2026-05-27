@@ -1,0 +1,8 @@
+cd - trocar de pasta
+	cd .. volta uma pasta
+mkdir - criar pasta
+ls - nome de todas as pastas dentro da pasta
+pwd - mostra o caminho onde está
+git init . - a pasta agora e um repositório local
+clear - limpar tela
+ls -a - mostra pastas "escondidas"
