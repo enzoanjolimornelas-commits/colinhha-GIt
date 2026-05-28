@@ -6,3 +6,15 @@ pwd - mostra o caminho onde está
 git init . - a pasta agora e um repositório local
 clear - limpar tela
 ls -a - mostra pastas "escondidas"
+clear - limpa tela
+git config --global user.name "<nome do usuario github>" - vincular git com o git hub pelo nome
+git config --global user.email <email do github> - vincular git com o git hub pelo email
+git status - ver estado do repositório
+git add . - adicionar tudo da pasta ao repositório
+git add "<nome da pasta ou arquivo>" = adicionar pastas específicas
+git commit - m "<nome do commit>" - criar o commmit
+git branch -M main - definir esta branch como main
+gt remote origin <url> - copiar no site e colocar no bash
+git push -u origin main - dar push
+
+
